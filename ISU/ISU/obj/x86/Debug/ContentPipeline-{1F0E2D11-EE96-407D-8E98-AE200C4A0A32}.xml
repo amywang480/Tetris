@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\FireBlock.jpg</Source>
+      <Name>Images\FireBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\FireBlock.xnb</Output>
+      <Time>2018-06-17T20:49:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GameArea.jpg</Source>
+      <Name>Images\GameArea</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\GameArea.xnb</Output>
+      <Time>2018-06-17T20:49:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\MenuBg.jpg</Source>
+      <Name>Backgrounds\MenuBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Backgrounds\MenuBg.xnb</Output>
+      <Time>2018-06-17T20:49:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\WaterBalloon.jpg</Source>
+      <Name>Images\WaterBalloon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\WaterBalloon.xnb</Output>
+      <Time>2018-06-17T20:49:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PowerWaterBalloon.jpg</Source>
+      <Name>Images\PowerWaterBalloon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\PowerWaterBalloon.xnb</Output>
+      <Time>2018-06-17T20:49:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SteelBox.jpg</Source>
+      <Name>Images\SteelBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\SteelBox.xnb</Output>
+      <Time>2018-06-17T20:49:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maleficent.png</Source>
+      <Name>Images\Maleficent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\Maleficent.xnb</Output>
+      <Time>2018-06-17T20:49:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\PlayBg.jpg</Source>
+      <Name>Backgrounds\PlayBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Backgrounds\PlayBg.xnb</Output>
+      <Time>2018-06-17T20:49:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\UpperCorner.png</Source>
+      <Name>Images\UpperCorner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\UpperCorner.xnb</Output>
+      <Time>2018-06-17T20:49:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\LowerCorner.png</Source>
+      <Name>Images\LowerCorner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\LowerCorner.xnb</Output>
+      <Time>2018-06-17T20:49:36-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dragon.png</Source>
+      <Name>Images\Dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\Dragon.xnb</Output>
+      <Time>2018-06-17T20:49:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SwordBtn.png</Source>
+      <Name>Images\SwordBtn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Images\SwordBtn.xnb</Output>
+      <Time>2018-06-17T20:49:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\UsernameBg.jpg</Source>
+      <Name>Backgrounds\UsernameBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Backgrounds\UsernameBg.xnb</Output>
+      <Time>2018-06-17T20:49:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Top10Bg.jpg</Source>
+      <Name>Backgrounds\Top10Bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Backgrounds\Top10Bg.xnb</Output>
+      <Time>2018-06-17T20:44:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GameOverBg.jpg</Source>
+      <Name>Backgrounds\GameOverBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Backgrounds\GameOverBg.xnb</Output>
+      <Time>2018-06-17T20:44:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\PlayFont.spritefont</Source>
+      <Name>Fonts\PlayFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\PlayFont.xnb</Output>
+      <Time>2018-06-17T20:49:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TitleFont.spritefont</Source>
+      <Name>Fonts\TitleFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\TitleFont.xnb</Output>
+      <Time>2018-06-17T20:49:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LineClearFont.spritefont</Source>
+      <Name>Fonts\LineClearFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\LineClearFont.xnb</Output>
+      <Time>2018-06-17T20:49:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ButtonFont.spritefont</Source>
+      <Name>Fonts\ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\ButtonFont.xnb</Output>
+      <Time>2018-06-17T20:49:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\UsernameFont.spritefont</Source>
+      <Name>Fonts\UsernameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\UsernameFont.xnb</Output>
+      <Time>2018-06-17T20:49:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\LengthFont.spritefont</Source>
+      <Name>Fonts\LengthFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\LengthFont.xnb</Output>
+      <Time>2018-06-17T20:49:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreboardFont.spritefont</Source>
+      <Name>Fonts\ScoreboardFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Fonts\ScoreboardFont.xnb</Output>
+      <Time>2018-06-17T20:44:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\ButtonSndEffect.wav</Source>
+      <Name>Audio\SoundEffects\ButtonSndEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\SoundEffects\ButtonSndEffect.xnb</Output>
+      <Time>2018-06-17T20:44:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\LineClearSndEffect.wav</Source>
+      <Name>Audio\SoundEffects\LineClearSndEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\SoundEffects\LineClearSndEffect.xnb</Output>
+      <Time>2018-06-17T20:45:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\GameOverSndEffect.wav</Source>
+      <Name>Audio\SoundEffects\GameOverSndEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\SoundEffects\GameOverSndEffect.xnb</Output>
+      <Time>2018-06-17T20:45:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundEffects\Top10SndEffect.wav</Source>
+      <Name>Audio\SoundEffects\Top10SndEffect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\SoundEffects\Top10SndEffect.xnb</Output>
+      <Time>2018-06-17T20:52:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\MenuSound.wav</Source>
+      <Name>Audio\Music\MenuSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\Music\MenuSound.xnb</Output>
+      <Time>2018-06-17T20:51:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\PlaySound.wav</Source>
+      <Name>Audio\Music\PlaySound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\Audio\Music\PlaySound.xnb</Output>
+      <Time>2018-06-17T20:52:08-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1F0E2D11-EE96-407D-8E98-AE200C4A0A32}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISUContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISU\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-01-13T00:55:44.4045815-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

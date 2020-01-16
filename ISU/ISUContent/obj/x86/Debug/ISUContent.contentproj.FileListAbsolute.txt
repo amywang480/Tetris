@@ -1,0 +1,4 @@
+G:\ICS3U\Assignments\ISU\ISU\ISUContent\obj\x86\Debug\ISUContent.contentprojResolveAssemblyReference.cache
+F:\ICS3U\Assignments\ISU\ISU\ISUContent\obj\x86\Debug\ISUContent.contentprojResolveAssemblyReference.cache
+C:\Users\amywa\Downloads\ISU\ISU\ISUContent\obj\x86\Debug\ISUContent.contentprojResolveAssemblyReference.cache
+C:\Users\amywa\Documents\Computer Programming\Grade 11\ISU\ISU\ISUContent\obj\x86\Debug\ISUContent.contentprojResolveAssemblyReference.cache
