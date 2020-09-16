@@ -1,8 +1,5 @@
-//Author:               Amy Wang
 //File Name:            MaleficentFire.cs
-//Project Name:         ISU
 //Creation Date:        May 23, 2018
-//Modification Date:    June 17, 2018
 /*Description:          Run the game, Maleficent's Fire, a sleeping beauty themed Tetris. In this game,
                         the player is able to control blocks and use them to form full horizontal lines.
                         The goal of the game is to create and clear as many full horizontal lines as possible
